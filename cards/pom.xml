@@ -66,7 +66,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>eazybytes/${project.artifactId}:s4</image>
+						<image>huynhtri998/${project.artifactId}:S1</image>
 					</to>
 				</configuration>
 			</plugin>
