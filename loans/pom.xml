@@ -72,6 +72,9 @@
 					<image>
 						<name>huynhtri998/${project.artifactId}:S1</name>
 					</image>
+					<docker>
+						<host>//./pipe/dockerDesktopLinuxEngine</host>
+					</docker>
 				</configuration>
 			</plugin>
 		</plugins>
